@@ -52,7 +52,7 @@ By isolating specific socioeconomic dimensions against bike purchasing decisions
 ## 📥 Deployment & Local Reproduction Instructions
 To interact with the processing layers and the live analytical interface, download the compiled architecture directly:
 1. Navigate to the file repository structure above.
-2. Select the **`[Your_File_Name].xlsx`** binary file workbook.
+2. Select the **`Bike Sales Dashboard.xlsx`** binary file workbook.
 3. Click the **Download raw file** action button to clone it to your local environment.
 4. Launch the project via desktop **Microsoft Excel** (activate macros/content if prompted).
 5. Interact with the dynamic slicer grid on the dashboard tab to watch the backend calculations compute in real-time.

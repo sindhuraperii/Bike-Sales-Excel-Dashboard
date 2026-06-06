@@ -1,7 +1,7 @@
 # 📊 End-to-End Enterprise Data Architecture: Bike Sales Systemic Analysis
 
 ## 🖼️ Architecture & Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ## 🎯 Architectural Objective
 This project serves as a comprehensive case study demonstrating the capability of **Microsoft Excel as a self-contained, end-to-end Data Lifecycle Management platform**. The core objective was to ingest a highly volatile, uncleaned, and unstructured transactional dataset, systematically process it through a rigorous ETL (Extract, Transform, Load) pipeline, establish a robust data model, and deploy an interactive executive dashboard—all without relying on external databases, Python, or specialized BI software.
